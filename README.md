@@ -1,16 +1,11 @@
 # projet1
 
-A new Flutter project.
+Application mobile: MozApp
 
-## Getting Started
+Cette application est conçu dans le cadre d'un projet de fin de cycle, elle dispose des fonctionnalité suivante:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Rechercher photos: cette fonctionnalité permet à l’utilisateur de rechercher des photos en à l’aide d’un mot clé à travers l’application.
+Consulter films : Ce dernier pourra consulter la liste des films disponible grace à  l’API tmdb.
+Calculer le jour d’une date : L’utilisateur rentre simplement la date du jour et ce dernier peut accéder au jour.
+Consulter la description des films classiques
+![image](https://user-images.githubusercontent.com/80891958/195724565-c6d07590-822f-428d-85ff-efa152a943a1.png)
